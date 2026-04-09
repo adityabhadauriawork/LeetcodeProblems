@@ -1,6 +1,6 @@
 class Solution:
     def singleNumber(self, nums: List[int]) -> int:
-        freq = {}
+        freq = {} 
         for a in nums:
             if a in freq:
                 freq[a]+=1
