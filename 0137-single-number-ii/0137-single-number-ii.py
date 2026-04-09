@@ -3,6 +3,7 @@ class Solution:
         freq = {} 
         for a in nums:
             if a in freq:
+                #hehhe
                 freq[a]+=1
             else:
                 freq[a]=1
