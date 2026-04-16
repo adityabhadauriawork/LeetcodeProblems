@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/0001-two-sum) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/0053-maximum-subarray) |
 | [0137-single-number-ii](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/0137-single-number-ii) |
 ## Binary Search
 |  |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/0053-maximum-subarray) |
 | [0509-fibonacci-number](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/0509-fibonacci-number) |
 ## Recursion
 |  |
@@ -85,4 +87,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/0042-trapping-rain-water) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
