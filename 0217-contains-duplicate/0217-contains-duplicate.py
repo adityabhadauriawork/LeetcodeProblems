@@ -1,14 +1,26 @@
 class Solution:
     def containsDuplicate(self, nums: List[int]) -> bool:
-        freq ={}
+        # freq ={}
+        # for a in nums:
+        #     if a in freq:
+        #         freq[a]+=1
+        #     else:
+        #         freq[a]=1
+        # # dictionary mein sab freq. store hogyi ab kya beta kallu
+        # for b in freq:
+        #     if freq[b]>1:
+        #         return True
+        # return False
+
+
+
+        # 2nd approach
+        b = set()
         for a in nums:
-            if a in freq:
-                freq[a]+=1
-            else:
-                freq[a]=1
-        # dictionary mein sab freq. store hogyi ab kya beta kallu
-        for b in freq:
-            if freq[b]>1:
+            if a in b:
                 return True
+            else:
+                b.add(a)
         return False
+
         
