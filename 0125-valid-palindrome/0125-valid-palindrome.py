@@ -4,7 +4,7 @@ class Solution:
         new_s = ""
 
         for ch in s:
-            if ch.isalnum():
+            if ch.isalnum(): # alnum only allows numbers and alphabet
                 new_s = new_s + ch.lower()
 
         rev = ""
