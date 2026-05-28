@@ -8,6 +8,7 @@ class Solution:
                 nums1[k]=nums2[j]
                 k-=1
                 j-=1
+                #if they nums 1 ka i equal hai nums2 ke j se to else chle !!
             else:
                 nums1[k]=nums1[i]
                 k-=1
