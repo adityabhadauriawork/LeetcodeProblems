@@ -17,4 +17,7 @@ class Solution:
         for i in nums1:
             res.append(ans[i])
         return res
+
+        # using lambda function
+        # return list(map(x: ans[x],nums1))
         
