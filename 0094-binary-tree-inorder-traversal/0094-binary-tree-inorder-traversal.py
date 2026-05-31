@@ -7,15 +7,18 @@
 class Solution:
     def __init__(self):
         self.ans=[]
-    def inorder(self,root):
+    def recursive(self, root):
         #base case
         if root is None:
-            return
-        self.inorder(root.left)
+            return None
+
+        self.recursive(root.left)
         self.ans.append(root.val)
-        self.inorder(root.right)
+
+        self.recursive(root.right)
+
     def inorderTraversal(self, root: Optional[TreeNode]) -> List[int]:
         self.ans=[]
-        self.inorder(root)
+        self.recursive(root)
         return self.ans
         
