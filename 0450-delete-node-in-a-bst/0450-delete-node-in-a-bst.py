@@ -21,7 +21,7 @@ class Solution:
                 return root.right
             elif root.right is None:
                 return root.left
-            else:
+            else:  #inorder successor finding
                 temp = root.right
                 while temp.left!=None:
                     temp = temp.left
