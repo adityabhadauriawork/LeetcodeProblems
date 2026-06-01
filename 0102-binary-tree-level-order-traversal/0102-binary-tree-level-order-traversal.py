@@ -4,6 +4,7 @@
 #         self.val = val
 #         self.left = left
 #         self.right = right
+
 class Queue:
   def __init__(self):
     self.q=[]
@@ -36,16 +37,17 @@ class Queue:
     return len(self.q)-self.front
 class Solution:
     def levelOrder(self, root: Optional[TreeNode]) -> List[List[int]]:
-        queue=Queue()
+        queue = Queue()
         ans = []
         if root is None:
             return ans
         queue.push(root)
         ans.append([root.val])
-
-        while queue.size() > 0:
-            l = queue.size()
+        while queue.size()>0:
             level = []
+            if queue.size() is None:
+                return None
+            l =queue.size()
             for i in range(l):
                 front = queue.pop()
                 if front.left!=None:
@@ -54,8 +56,6 @@ class Solution:
                 if front.right!=None:
                     queue.push(front.right)
                     level.append(front.right.val)
-            if len(level)>0:
+            if len(level) > 0:
                 ans.append(level)
         return ans
-
-        
