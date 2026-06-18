@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/0053-maximum-subarray) |
+| [0056-merge-intervals](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/0088-merge-sorted-array) |
 | [0137-single-number-ii](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/0137-single-number-ii) |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/0215-kth-largest-element-in-an-array) |
