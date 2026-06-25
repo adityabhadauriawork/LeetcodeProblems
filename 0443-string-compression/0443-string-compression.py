@@ -1,7 +1,7 @@
 class Solution:
     def compress(self, chars: List[str]) -> int:
-        i = 0
-        insert = 0
+        i = 0 # reader
+        insert = 0 # writer
         while i < len(chars):
             group = 1
             while (i + group) < len(chars) and chars[i+group]==chars[i]:
