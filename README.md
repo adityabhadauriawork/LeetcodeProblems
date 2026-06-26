@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/0704-binary-search) |
 | [1046-last-stone-weight](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/1046-last-stone-weight) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/1431-kids-with-the-greatest-number-of-candies) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/0242-valid-anagram) |
 | [0496-next-greater-element-i](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/0496-next-greater-element-i) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Linked List
 |  |
 | ------- |
@@ -190,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/0053-maximum-subarray) |
 | [0215-kth-largest-element-in-an-array](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/0215-kth-largest-element-in-an-array) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## String
 |  |
 | ------- |
@@ -295,4 +298,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/0238-product-of-array-except-self) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/3739-count-subarrays-with-majority-element-ii) |
+## Segment Tree
+|  |
+| ------- |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/3739-count-subarrays-with-majority-element-ii) |
+## Merge Sort
+|  |
+| ------- |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/3739-count-subarrays-with-majority-element-ii) |
 <!---LeetCode Topics End-->
