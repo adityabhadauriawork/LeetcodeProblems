@@ -20,16 +20,17 @@ class Solution:
         ans1 = []
         
         ans3=[]
+        ans1=set(ans1)
+
         for a in nums1:
             if a not in nums2:
-                ans1.append(a)
-        ans1=set(ans1)
+                ans1.add(a)
         ans1=list(ans1)
         ans2=[]
+        ans2=set(ans2)
         for b in nums2:
             if b not in nums1:
-                ans2.append(b)
-        ans2=set(ans2)
+                ans2.add(b)
         ans2=list(ans2)
         ans3.append(ans1)
 
