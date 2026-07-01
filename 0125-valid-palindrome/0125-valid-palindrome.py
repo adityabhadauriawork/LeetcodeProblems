@@ -1,18 +1,32 @@
 class Solution:
     def isPalindrome(self, s: str) -> bool:
 
-        new_s = ""
+        
 
-        for ch in s:
-            if ch.isalnum(): # alnum only allows numbers and alphabet
-                new_s = new_s + ch.lower()
-
-        rev = ""
-
-        for i in range(len(new_s)-1, -1, -1):
-            rev = rev + new_s[i]
-
-        if new_s == rev:
+        if s == " ":
             return True
+        s = re.sub(r'[^a-zA-Z0-9]', '', s).lower()
+        print(s)
+        n=len(s)
+        
+        l=0
+        r=n-1
+        for i in range(n):
+            while l <= r:
+                if s[l] != s[r]:
+                    l+=1
+                    r-=1
+                    return False
+                l+=1
+                r-=1
+            
+        return True
 
-        return False
+
+
+
+
+
+
+
+
