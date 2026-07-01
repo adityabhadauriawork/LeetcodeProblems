@@ -11,14 +11,14 @@ class Solution:
         
         l=0
         r=n-1
-        for i in range(n):
-            while l <= r:
-                if s[l] != s[r]:
-                    l+=1
-                    r-=1
-                    return False
+     
+        while l <= r:
+            if s[l] != s[r]:
                 l+=1
                 r-=1
+                return False
+            l+=1
+            r-=1
             
         return True
 
