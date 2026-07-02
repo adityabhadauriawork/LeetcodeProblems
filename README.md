@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/0088-merge-sorted-array) |
 | [0137-single-number-ii](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/0137-single-number-ii) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0200-number-of-islands](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/0217-contains-duplicate) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/0035-search-insert-position) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0704-binary-search](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/0704-binary-search) |
 | [1004-max-consecutive-ones-iii](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/1004-max-consecutive-ones-iii) |
 ## Math
@@ -198,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/0142-linked-list-cycle-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/0160-intersection-of-two-linked-lists) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/0345-reverse-vowels-of-a-string) |
