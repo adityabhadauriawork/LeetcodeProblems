@@ -1,7 +1,6 @@
 class Solution:
     def threeSum(self, nums: list[int]) -> list[list[int]]:
-        # take one value then apply two sum for other two
-        # time complexity is gonna be o(n2)
+        
         ans = []
         nums.sort()
         for i, a in enumerate(nums):
