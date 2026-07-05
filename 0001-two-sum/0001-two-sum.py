@@ -1,9 +1,12 @@
 class Solution:
     def twoSum(self, nums: List[int], target: int) -> List[int]:
-        dic = {}
+        freq = {}
         for i in range(len(nums)):
-            rem = target - nums[i]
-            if rem in dic:
-                return [dic[rem], i]
-            dic[nums[i]]=i
+            if target - nums[i] in freq:
+                return [freq[target-nums[i]], i]
+            freq[nums[i]] = i
+
+        
+
+
         
