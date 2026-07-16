@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/0735-asteroid-collision) |
 | [0977-squares-of-a-sorted-array](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/0977-squares-of-a-sorted-array) |
+| [0994-rotting-oranges](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/1004-max-consecutive-ones-iii) |
 | [1046-last-stone-weight](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/1046-last-stone-weight) |
 | [1207-unique-number-of-occurrences](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/1207-unique-number-of-occurrences) |
@@ -347,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/0547-number-of-provinces) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0743-network-delay-time](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/0743-network-delay-time) |
+| [0994-rotting-oranges](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/0994-rotting-oranges) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
@@ -403,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/0200-number-of-islands) |
+| [0994-rotting-oranges](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/0994-rotting-oranges) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [2352-equal-row-and-column-pairs](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/2352-equal-row-and-column-pairs) |
 ## Backtracking
