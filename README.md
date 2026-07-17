@@ -216,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/0137-single-number-ii) |
 | [0231-power-of-two](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/0231-power-of-two) |
 | [0338-counting-bits](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/0338-counting-bits) |
+| [1318-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/1318-minimum-flips-to-make-a-or-b-equal-to-c) |
 ## Hash Table
 |  |
 | ------- |
