@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/0334-increasing-triplet-subsequence) |
 | [0399-evaluate-division](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/0399-evaluate-division) |
+| [0435-non-overlapping-intervals](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/0435-non-overlapping-intervals) |
 | [0496-next-greater-element-i](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/0503-next-greater-element-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/0643-maximum-average-subarray-i) |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/0198-house-robber) |
 | [0338-counting-bits](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/0392-is-subsequence) |
+| [0435-non-overlapping-intervals](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/0435-non-overlapping-intervals) |
 | [0509-fibonacci-number](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/0509-fibonacci-number) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0746-min-cost-climbing-stairs](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/0746-min-cost-climbing-stairs) |
@@ -346,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/0242-valid-anagram) |
+| [0435-non-overlapping-intervals](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/0435-non-overlapping-intervals) |
 | [0977-squares-of-a-sorted-array](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/0977-squares-of-a-sorted-array) |
 | [1268-search-suggestions-system](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/1268-search-suggestions-system) |
 | [1657-determine-if-two-strings-are-close](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/1657-determine-if-two-strings-are-close) |
@@ -451,6 +454,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/0011-container-with-most-water) |
 | [0334-increasing-triplet-subsequence](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/0334-increasing-triplet-subsequence) |
+| [0435-non-overlapping-intervals](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/0435-non-overlapping-intervals) |
 | [0649-dota2-senate](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/0649-dota2-senate) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [2542-maximum-subsequence-score](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/2542-maximum-subsequence-score) |
