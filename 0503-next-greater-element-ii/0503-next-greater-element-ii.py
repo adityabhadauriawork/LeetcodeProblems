@@ -11,12 +11,10 @@ class Solution:
 
             while len(st) > 0 and st[-1] <= arr[i]:
                 st.pop()
-
             if len(st) == 0:
                 ans[i] = -1
             else:
                 ans[i] = st[-1]
-
             st.append(arr[i])
-
         return ans[:len(ans)//2]
+        
