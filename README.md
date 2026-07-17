@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/0088-merge-sorted-array) |
+| [0136-single-number](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/0137-single-number-ii) |
 | [0162-find-peak-element](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/0137-single-number-ii) |
 | [0231-power-of-two](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/0231-power-of-two) |
 | [0338-counting-bits](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/0338-counting-bits) |
