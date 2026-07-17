@@ -181,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/0062-unique-paths) |
+| [0072-edit-distance](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/0072-edit-distance) |
 | [0198-house-robber](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/0198-house-robber) |
 | [0392-is-subsequence](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/0509-fibonacci-number) |
@@ -305,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/0020-valid-parentheses) |
+| [0072-edit-distance](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/0072-edit-distance) |
 | [0125-valid-palindrome](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/0242-valid-anagram) |
