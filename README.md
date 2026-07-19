@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/0056-merge-intervals) |
+| [0059-spiral-matrix-ii](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/0059-spiral-matrix-ii) |
 | [0075-sort-colors](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/0088-merge-sorted-array) |
@@ -388,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0059-spiral-matrix-ii](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/0059-spiral-matrix-ii) |
 | [0735-asteroid-collision](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/0735-asteroid-collision) |
 | [0844-backspace-string-compare](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/0844-backspace-string-compare) |
 | [2352-equal-row-and-column-pairs](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/2352-equal-row-and-column-pairs) |
@@ -470,6 +472,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0059-spiral-matrix-ii](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/0059-spiral-matrix-ii) |
 | [0200-number-of-islands](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/0200-number-of-islands) |
 | [0994-rotting-oranges](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/0994-rotting-oranges) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/1926-nearest-exit-from-entrance-in-maze) |
