@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [1508-range-sum-of-sorted-subarray-sums](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1732-find-the-highest-altitude](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/1732-find-the-highest-altitude) |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/1004-max-consecutive-ones-iii) |
 | [1268-search-suggestions-system](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/1268-search-suggestions-system) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1508-range-sum-of-sorted-subarray-sums](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/2300-successful-pairs-of-spells-and-potions) |
 ## Math
@@ -301,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/0977-squares-of-a-sorted-array) |
+| [1508-range-sum-of-sorted-subarray-sums](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1768-merge-strings-alternately](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/1768-merge-strings-alternately) |
@@ -370,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/0977-squares-of-a-sorted-array) |
 | [1094-car-pooling](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/1094-car-pooling) |
 | [1268-search-suggestions-system](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/1268-search-suggestions-system) |
+| [1508-range-sum-of-sorted-subarray-sums](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [1657-determine-if-two-strings-are-close](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/1657-determine-if-two-strings-are-close) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/2300-successful-pairs-of-spells-and-potions) |
@@ -509,6 +513,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1094-car-pooling](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/1094-car-pooling) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1508-range-sum-of-sorted-subarray-sums](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [1732-find-the-highest-altitude](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/1732-find-the-highest-altitude) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Segment Tree
