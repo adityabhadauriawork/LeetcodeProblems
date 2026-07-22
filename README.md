@@ -220,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 ## Recursion
 |  |
 | ------- |
@@ -364,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1657-determine-if-two-strings-are-close](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/1657-determine-if-two-strings-are-close) |
 | [1768-merge-strings-alternately](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/1768-merge-strings-alternately) |
+| [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2390-removing-stars-from-a-string](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/2390-removing-stars-from-a-string) |
 ## Sorting
 |  |
@@ -492,6 +494,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 ## Greedy
 |  |
 | ------- |
