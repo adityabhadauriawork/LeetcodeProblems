@@ -160,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1838-frequency-of-the-most-frequent-element](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [1964-find-the-longest-valid-obstacle-course-at-each-position](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/1964-find-the-longest-valid-obstacle-course-at-each-position) |
+| [2054-two-best-non-overlapping-events](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/2054-two-best-non-overlapping-events) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2352-equal-row-and-column-pairs](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/2352-equal-row-and-column-pairs) |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1713-minimum-operations-to-make-a-subsequence](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/1713-minimum-operations-to-make-a-subsequence) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1964-find-the-longest-valid-obstacle-course-at-each-position](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/1964-find-the-longest-valid-obstacle-course-at-each-position) |
+| [2054-two-best-non-overlapping-events](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/2054-two-best-non-overlapping-events) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/2300-successful-pairs-of-spells-and-potions) |
 ## Math
 |  |
@@ -223,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
+| [2054-two-best-non-overlapping-events](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/2054-two-best-non-overlapping-events) |
 ## Recursion
 |  |
 | ------- |
@@ -390,6 +393,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1657-determine-if-two-strings-are-close](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/1657-determine-if-two-strings-are-close) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [2054-two-best-non-overlapping-events](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/2054-two-best-non-overlapping-events) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2542-maximum-subsequence-score](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/2542-maximum-subsequence-score) |
 ## Trie
@@ -459,6 +463,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-last-stone-weight](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/1046-last-stone-weight) |
 | [1094-car-pooling](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/1094-car-pooling) |
 | [1268-search-suggestions-system](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/1268-search-suggestions-system) |
+| [2054-two-best-non-overlapping-events](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/2054-two-best-non-overlapping-events) |
 | [2336-smallest-number-in-infinite-set](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/2336-smallest-number-in-infinite-set) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/2462-total-cost-to-hire-k-workers) |
 | [2542-maximum-subsequence-score](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/2542-maximum-subsequence-score) |
