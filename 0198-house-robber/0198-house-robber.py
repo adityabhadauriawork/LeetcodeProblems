@@ -1,16 +1,19 @@
-from typing import List
-
 class Solution:
-    def rob(self, nums: List[int]) -> int:
-        if len(nums) == 1:
-            return nums[0]
+    def rec(self,i,nums,dp):
+        if i>=len(nums):
+            return 0
+        if dp[i]!=-1:
+            return dp[i]
+        #take case
+        take = nums[i] + self.rec(i+2,nums,dp)
 
-        prev2 = nums[0]
-        prev1 = max(nums[0], nums[1])
+        #not take case
+        not_take = self.rec(i+1,nums,dp)
+        #before returning final return
+        dp[i] = max(take,not_take)
+        return dp[i]
 
-        for i in range(2, len(nums)):
-            curr = max(prev1, prev2 + nums[i])
-            prev2 = prev1
-            prev1 = curr
-
-        return prev1
+    def rob(self,nums):
+        dp = [-1]*len(nums)
+        return self.rec(0,nums,dp)
+        
