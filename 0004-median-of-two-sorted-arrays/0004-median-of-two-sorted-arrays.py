@@ -5,8 +5,8 @@ class Solution:
         a = nums1 + nums2
         a.sort()
 
-        b = np.median(a)
-        return b
+        return np.median(a)
+    
 
 
         
