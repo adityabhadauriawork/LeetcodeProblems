@@ -1,17 +1,25 @@
 class Solution:
-    def asteroidCollision(self, asteroids):
-        stack = []
+    def asteroidCollision(self, nums: List[int]) -> List[int]:
+        stk = []
 
-        for asteroid in asteroids:
-            while stack and asteroid < 0 and stack[-1] > 0:
-                if stack[-1] < -asteroid:
-                    stack.pop()
-                elif stack[-1] == -asteroid:
-                    stack.pop()
-                    break
-                else:
-                    break
-            else:
-                stack.append(asteroid)
+        for i in range(len(nums)):
 
-        return stack
+            if nums[i] > 0:
+                stk.append(nums[i])
+                continue
+
+            while stk and stk[-1] > 0 and abs(nums[i]) > abs(stk[-1]):
+                stk.pop()
+
+            if not stk or stk[-1] < 0:
+                stk.append(nums[i])
+                continue
+
+            if abs(nums[i]) == abs(stk[-1]):
+                stk.pop()
+                continue
+
+            # if stk[-1] > abs(nums[i]), do nothing
+            # the current asteroid is destroyed
+
+        return stk
