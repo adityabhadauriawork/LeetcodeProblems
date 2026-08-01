@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0399-evaluate-division](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/0399-evaluate-division) |
 | [0435-non-overlapping-intervals](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0486-predict-the-winner](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/0486-predict-the-winner) |
 | [0496-next-greater-element-i](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/0503-next-greater-element-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/0643-maximum-average-subarray-i) |
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/0326-power-of-three) |
+| [0486-predict-the-winner](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/0509-fibonacci-number) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1137-n-th-tribonacci-number](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/1137-n-th-tribonacci-number) |
@@ -221,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/0392-is-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/0435-non-overlapping-intervals) |
+| [0486-predict-the-winner](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/0509-fibonacci-number) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0746-min-cost-climbing-stairs](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/0746-min-cost-climbing-stairs) |
@@ -243,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/0326-power-of-three) |
 | [0394-decode-string](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/0394-decode-string) |
+| [0486-predict-the-winner](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
@@ -593,4 +597,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1964-find-the-longest-valid-obstacle-course-at-each-position](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/1964-find-the-longest-valid-obstacle-course-at-each-position) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
