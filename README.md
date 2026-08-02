@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/0739-daily-temperatures) |
 | [0746-min-cost-climbing-stairs](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/0746-min-cost-climbing-stairs) |
 | [0875-koko-eating-bananas](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/0875-koko-eating-bananas) |
+| [0877-stone-game](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/0877-stone-game) |
 | [0918-maximum-sum-circular-subarray](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/0918-maximum-sum-circular-subarray) |
 | [0977-squares-of-a-sorted-array](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/0977-squares-of-a-sorted-array) |
 | [0994-rotting-oranges](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/0994-rotting-oranges) |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/0326-power-of-three) |
 | [0486-predict-the-winner](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/0509-fibonacci-number) |
+| [0877-stone-game](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/0877-stone-game) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1137-n-th-tribonacci-number](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/1137-n-th-tribonacci-number) |
 | [2366-minimum-replacements-to-sort-the-array](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/2366-minimum-replacements-to-sort-the-array) |
@@ -228,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0746-min-cost-climbing-stairs](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/0746-min-cost-climbing-stairs) |
 | [0790-domino-and-tromino-tiling](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/0790-domino-and-tromino-tiling) |
+| [0877-stone-game](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/0877-stone-game) |
 | [0918-maximum-sum-circular-subarray](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/0918-maximum-sum-circular-subarray) |
 | [1137-n-th-tribonacci-number](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/1137-n-th-tribonacci-number) |
 | [1143-longest-common-subsequence](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/1143-longest-common-subsequence) |
@@ -601,4 +604,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
