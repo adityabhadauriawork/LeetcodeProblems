@@ -1,23 +1,25 @@
 class Solution:
-    def nextGreaterElement(self, nums1: List[int], arr: List[int]) -> List[int]:
-        # we changes nums2 as arr
-        n = len(arr)
-        ans={}
-        st=[]
-        for i in range(n-1,-1,-1):
-            while len(st)>0 and st[-1] <= arr[i]:
-                st.pop()
-            if len(st)==0:
-                ans[arr[i]]=-1
-            else:
-                ans[arr[i]] = st[-1]
-            st.append(arr[i])
+    def nextGreaterElement(self, nums1: List[int], nums2: List[int]) -> List[int]:
+        stack = []
+        n1 = len(nums2)
 
-        res=[]
-        for i in nums1:
-            res.append(ans[i])
-        return res
+        for i in range(len(nums1)):
+            count = 0
 
-        # using lambda function
-        # return list(map(x: ans[x],nums1))
-        
+            # Find the position of nums1[i] in nums2
+            for j in range(len(nums2)):
+                if nums2[j] == nums1[i]:
+                    break
+
+            # Search only to the right
+            for k in range(j + 1, len(nums2)):
+                if nums2[k] > nums1[i]:
+                    stack.append(nums2[k])
+                    break
+                else:
+                    count += 1
+
+            if count == len(nums2) - (j + 1):
+                stack.append(-1)
+
+        return stack
