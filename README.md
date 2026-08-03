@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/0739-daily-temperatures) |
 | [0844-backspace-string-compare](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/0844-backspace-string-compare) |
 | [0901-online-stock-span](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/0901-online-stock-span) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/1431-kids-with-the-greatest-number-of-candies) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/1508-range-sum-of-sorted-subarray-sums) |
@@ -353,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/0901-online-stock-span) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
 ## Divide and Conquer
