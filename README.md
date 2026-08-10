@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0216-combination-sum-iii](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/0216-combination-sum-iii) |
 | [0217-contains-duplicate](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/0238-product-of-array-except-self) |
+| [0239-sliding-window-maximum](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/0334-increasing-triplet-subsequence) |
 | [0399-evaluate-division](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/0399-evaluate-division) |
@@ -461,6 +462,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/0232-implement-queue-using-stacks) |
+| [0239-sliding-window-maximum](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/0239-sliding-window-maximum) |
 | [0649-dota2-senate](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/0649-dota2-senate) |
 | [0918-maximum-sum-circular-subarray](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/0918-maximum-sum-circular-subarray) |
 | [0933-number-of-recent-calls](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/0933-number-of-recent-calls) |
@@ -504,6 +506,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/0215-kth-largest-element-in-an-array) |
+| [0239-sliding-window-maximum](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/0239-sliding-window-maximum) |
 | [0743-network-delay-time](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/0743-network-delay-time) |
 | [1046-last-stone-weight](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/1046-last-stone-weight) |
 | [1094-car-pooling](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/1094-car-pooling) |
@@ -540,6 +543,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0239-sliding-window-maximum](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/0239-sliding-window-maximum) |
 | [0643-maximum-average-subarray-i](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/0643-maximum-average-subarray-i) |
 | [1004-max-consecutive-ones-iii](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
@@ -625,6 +629,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Queue
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/0239-sliding-window-maximum) |
 | [0918-maximum-sum-circular-subarray](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/0918-maximum-sum-circular-subarray) |
 ## Topological Sort
 |  |
@@ -672,4 +677,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/1510-stone-game-iv) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
