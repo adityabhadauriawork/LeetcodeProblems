@@ -220,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1137-n-th-tribonacci-number](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/1137-n-th-tribonacci-number) |
 | [1140-stone-game-ii](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/1510-stone-game-iv) |
 | [2366-minimum-replacements-to-sort-the-array](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/2366-minimum-replacements-to-sort-the-array) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -250,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/1406-stone-game-iii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [1510-stone-game-iv](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/1510-stone-game-iv) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2054-two-best-non-overlapping-events](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/2054-two-best-non-overlapping-events) |
@@ -639,6 +641,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/1510-stone-game-iv) |
 ## Enumeration
 |  |
 | ------- |
@@ -655,8 +658,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/1140-stone-game-ii) |
+| [1510-stone-game-iv](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/1510-stone-game-iv) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/1140-stone-game-ii) |
+| [1510-stone-game-iv](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/1510-stone-game-iv) |
+## Nim Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/1510-stone-game-iv) |
+## Sprague–Grundy Theorem
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/1510-stone-game-iv) |
 <!---LeetCode Topics End-->
