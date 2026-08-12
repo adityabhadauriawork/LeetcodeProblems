@@ -179,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2366-minimum-replacements-to-sort-the-array](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/2366-minimum-replacements-to-sort-the-array) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/2462-total-cost-to-hire-k-workers) |
 | [2542-maximum-subsequence-score](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/2542-maximum-subsequence-score) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/3731-find-missing-elements) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -306,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2215-find-the-difference-of-two-arrays](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2336-smallest-number-in-infinite-set](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/2336-smallest-number-in-infinite-set) |
 | [2352-equal-row-and-column-pairs](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/2352-equal-row-and-column-pairs) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/3731-find-missing-elements) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -555,6 +557,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Greedy
 |  |
 | ------- |
