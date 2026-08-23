@@ -239,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/1563-stone-game-v) |
+| [1927-sum-game](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/2029-stone-game-ix) |
 | [2366-minimum-replacements-to-sort-the-array](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/2366-minimum-replacements-to-sort-the-array) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -441,6 +442,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1657-determine-if-two-strings-are-close](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/1657-determine-if-two-strings-are-close) |
 | [1768-merge-strings-alternately](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/1768-merge-strings-alternately) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
+| [1927-sum-game](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2390-removing-stars-from-a-string](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/2390-removing-stars-from-a-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -603,6 +605,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1713-minimum-operations-to-make-a-subsequence](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/1713-minimum-operations-to-make-a-subsequence) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [1927-sum-game](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/2029-stone-game-ix) |
 | [2366-minimum-replacements-to-sort-the-array](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/2366-minimum-replacements-to-sort-the-array) |
 | [2542-maximum-subsequence-score](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/2542-maximum-subsequence-score) |
@@ -691,6 +694,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/1563-stone-game-v) |
+| [1927-sum-game](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/2029-stone-game-ix) |
 ## Enumeration
 |  |
