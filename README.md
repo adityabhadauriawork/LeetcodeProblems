@@ -334,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/0242-valid-anagram) |
 | [0496-next-greater-element-i](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/0496-next-greater-element-i) |
+| [0859-buddy-strings](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/0859-buddy-strings) |
 | [1207-unique-number-of-occurrences](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/1207-unique-number-of-occurrences) |
 | [1386-cinema-seat-allocation](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/1386-cinema-seat-allocation) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -452,6 +453,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0649-dota2-senate](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/0649-dota2-senate) |
 | [0824-goat-latin](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/0824-goat-latin) |
 | [0844-backspace-string-compare](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/0844-backspace-string-compare) |
+| [0859-buddy-strings](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/0859-buddy-strings) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1143-longest-common-subsequence](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/1143-longest-common-subsequence) |
 | [1268-search-suggestions-system](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/1268-search-suggestions-system) |
