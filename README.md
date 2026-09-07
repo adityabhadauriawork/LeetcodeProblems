@@ -288,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0790-domino-and-tromino-tiling](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/0790-domino-and-tromino-tiling) |
 | [0877-stone-game](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/0877-stone-game) |
 | [0918-maximum-sum-circular-subarray](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/0918-maximum-sum-circular-subarray) |
+| [0940-distinct-subsequences-ii](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/0940-distinct-subsequences-ii) |
 | [1137-n-th-tribonacci-number](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/1137-n-th-tribonacci-number) |
 | [1140-stone-game-ii](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/1140-stone-game-ii) |
 | [1143-longest-common-subsequence](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/1143-longest-common-subsequence) |
@@ -472,6 +473,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0859-buddy-strings](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/0859-buddy-strings) |
 | [0917-reverse-only-letters](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/0917-reverse-only-letters) |
 | [0929-unique-email-addresses](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/0929-unique-email-addresses) |
+| [0940-distinct-subsequences-ii](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/0940-distinct-subsequences-ii) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1143-longest-common-subsequence](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/1143-longest-common-subsequence) |
 | [1268-search-suggestions-system](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/1268-search-suggestions-system) |
