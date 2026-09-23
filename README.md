@@ -183,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1563-stone-game-v](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/1563-stone-game-v) |
 | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1713-minimum-operations-to-make-a-subsequence](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/1713-minimum-operations-to-make-a-subsequence) |
 | [1732-find-the-highest-altitude](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/1732-find-the-highest-altitude) |
@@ -236,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1713-minimum-operations-to-make-a-subsequence](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/1713-minimum-operations-to-make-a-subsequence) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1964-find-the-longest-valid-obstacle-course-at-each-position](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/1964-find-the-longest-valid-obstacle-course-at-each-position) |
@@ -374,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1386-cinema-seat-allocation](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/1386-cinema-seat-allocation) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1657-determine-if-two-strings-are-close](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/1657-determine-if-two-strings-are-close) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1713-minimum-operations-to-make-a-subsequence](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/1713-minimum-operations-to-make-a-subsequence) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/2215-find-the-difference-of-two-arrays) |
@@ -654,6 +657,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
@@ -711,6 +715,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1732-find-the-highest-altitude](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/1732-find-the-highest-altitude) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1872-stone-game-viii](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/1872-stone-game-viii) |
