@@ -14,13 +14,28 @@ class Solution:
 
 
 
-        # 2nd approach
-        b = set()
-        for a in nums:
-            if a in b:
-                return True
-            else:
-                b.add(a)
-        return False
+        # # 2nd approach
+        # b = set()
+        # for a in nums:
+        #     if a in b:
+        #         return True
+        #     else:
+        #         b.add(a)
+        # return False
+
+
+        nums1 = set(nums)
+        return len(nums) != len(nums1)
+
+
+
+
+
+
+
+
+
+
+
 
         
