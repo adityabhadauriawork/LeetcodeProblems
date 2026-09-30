@@ -257,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/0326-power-of-three) |
+| [0415-add-strings](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/0415-add-strings) |
 | [0486-predict-the-winner](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/0509-fibonacci-number) |
 | [0836-rectangle-overlap](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/0836-rectangle-overlap) |
@@ -491,6 +492,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0394-decode-string](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/0394-decode-string) |
 | [0399-evaluate-division](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/0399-evaluate-division) |
 | [0402-remove-k-digits](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/0402-remove-k-digits) |
+| [0415-add-strings](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/0415-add-strings) |
 | [0443-string-compression](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/0443-string-compression) |
 | [0649-dota2-senate](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/0649-dota2-senate) |
 | [0824-goat-latin](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/0824-goat-latin) |
@@ -574,6 +576,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/0059-spiral-matrix-ii) |
+| [0415-add-strings](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/0415-add-strings) |
 | [0735-asteroid-collision](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/0735-asteroid-collision) |
 | [0844-backspace-string-compare](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/0844-backspace-string-compare) |
 | [0946-validate-stack-sequences](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/0946-validate-stack-sequences) |
