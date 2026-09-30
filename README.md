@@ -178,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/1140-stone-game-ii) |
 | [1184-distance-between-bus-stops](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/1184-distance-between-bus-stops) |
 | [1207-unique-number-of-occurrences](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/1207-unique-number-of-occurrences) |
+| [1260-shift-2d-grid](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/1260-shift-2d-grid) |
 | [1268-search-suggestions-system](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/1268-search-suggestions-system) |
 | [1386-cinema-seat-allocation](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/1406-stone-game-iii) |
@@ -602,6 +603,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/0844-backspace-string-compare) |
 | [0946-validate-stack-sequences](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/0946-validate-stack-sequences) |
 | [1094-car-pooling](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/1094-car-pooling) |
+| [1260-shift-2d-grid](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/1260-shift-2d-grid) |
 | [2352-equal-row-and-column-pairs](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/2352-equal-row-and-column-pairs) |
 | [2390-removing-stars-from-a-string](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/2390-removing-stars-from-a-string) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/2462-total-cost-to-hire-k-workers) |
@@ -721,6 +723,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0883-projection-area-of-3d-shapes](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/0883-projection-area-of-3d-shapes) |
 | [0892-surface-area-of-3d-shapes](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/0892-surface-area-of-3d-shapes) |
 | [0994-rotting-oranges](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/0994-rotting-oranges) |
+| [1260-shift-2d-grid](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/1260-shift-2d-grid) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [2352-equal-row-and-column-pairs](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/2352-equal-row-and-column-pairs) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/3568-minimum-moves-to-clean-the-classroom) |
