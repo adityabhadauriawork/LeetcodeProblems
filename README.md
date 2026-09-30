@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/0486-predict-the-winner) |
 | [0496-next-greater-element-i](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/0503-next-greater-element-ii) |
+| [0575-distribute-candies](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/0575-distribute-candies) |
 | [0643-maximum-average-subarray-i](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/0704-binary-search) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
@@ -385,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/0242-valid-anagram) |
 | [0496-next-greater-element-i](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/0496-next-greater-element-i) |
+| [0575-distribute-candies](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/0575-distribute-candies) |
 | [0859-buddy-strings](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/0859-buddy-strings) |
 | [0888-fair-candy-swap](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/0888-fair-candy-swap) |
 | [0929-unique-email-addresses](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/0929-unique-email-addresses) |
