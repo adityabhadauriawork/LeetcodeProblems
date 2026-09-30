@@ -176,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/1004-max-consecutive-ones-iii) |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/1018-binary-prefix-divisible-by-5) |
+| [1037-valid-boomerang](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/1037-valid-boomerang) |
 | [1046-last-stone-weight](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/1046-last-stone-weight) |
 | [1094-car-pooling](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/1094-car-pooling) |
 | [1128-number-of-equivalent-domino-pairs](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/1128-number-of-equivalent-domino-pairs) |
@@ -284,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0892-surface-area-of-3d-shapes](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/0892-surface-area-of-3d-shapes) |
 | [0908-smallest-range-i](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/0908-smallest-range-i) |
 | [0989-add-to-array-form-of-integer](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/0989-add-to-array-form-of-integer) |
+| [1037-valid-boomerang](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/1037-valid-boomerang) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1137-n-th-tribonacci-number](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/1137-n-th-tribonacci-number) |
 | [1140-stone-game-ii](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/1140-stone-game-ii) |
@@ -879,6 +881,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0836-rectangle-overlap](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/0836-rectangle-overlap) |
 | [0883-projection-area-of-3d-shapes](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/0883-projection-area-of-3d-shapes) |
 | [0892-surface-area-of-3d-shapes](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/0892-surface-area-of-3d-shapes) |
+| [1037-valid-boomerang](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/1037-valid-boomerang) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/1401-circle-and-rectangle-overlapping) |
 ## Bracket Sequences
