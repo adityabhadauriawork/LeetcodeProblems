@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/0844-backspace-string-compare) |
 | [0901-online-stock-span](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/0901-online-stock-span) |
 | [0946-validate-stack-sequences](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/0946-validate-stack-sequences) |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
@@ -499,6 +500,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0929-unique-email-addresses](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/0929-unique-email-addresses) |
 | [0940-distinct-subsequences-ii](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/0940-distinct-subsequences-ii) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/1071-greatest-common-divisor-of-strings) |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1143-longest-common-subsequence](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/1143-longest-common-subsequence) |
 | [1268-search-suggestions-system](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/1268-search-suggestions-system) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -832,4 +834,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0883-projection-area-of-3d-shapes](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/0883-projection-area-of-3d-shapes) |
 | [0892-surface-area-of-3d-shapes](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/0892-surface-area-of-3d-shapes) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/1401-circle-and-rectangle-overlapping) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 <!---LeetCode Topics End-->
