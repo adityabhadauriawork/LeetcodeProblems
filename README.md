@@ -286,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0892-surface-area-of-3d-shapes](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/0892-surface-area-of-3d-shapes) |
 | [0908-smallest-range-i](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/0908-smallest-range-i) |
 | [0989-add-to-array-form-of-integer](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/0989-add-to-array-form-of-integer) |
+| [1025-divisor-game](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/1025-divisor-game) |
 | [1037-valid-boomerang](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/1037-valid-boomerang) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1137-n-th-tribonacci-number](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/1137-n-th-tribonacci-number) |
@@ -333,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/0877-stone-game) |
 | [0918-maximum-sum-circular-subarray](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/0918-maximum-sum-circular-subarray) |
 | [0940-distinct-subsequences-ii](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/0940-distinct-subsequences-ii) |
+| [1025-divisor-game](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/1025-divisor-game) |
 | [1137-n-th-tribonacci-number](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/1137-n-th-tribonacci-number) |
 | [1140-stone-game-ii](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/1140-stone-game-ii) |
 | [1143-longest-common-subsequence](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/1143-longest-common-subsequence) |
@@ -830,6 +832,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0292-nim-game](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/0292-nim-game) |
 | [0486-predict-the-winner](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/0877-stone-game) |
+| [1025-divisor-game](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/1025-divisor-game) |
 | [1140-stone-game-ii](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/1510-stone-game-iv) |
@@ -922,8 +925,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/0292-nim-game) |
+| [1025-divisor-game](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/1025-divisor-game) |
 ## Impartial Game
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/0292-nim-game) |
+| [1025-divisor-game](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/1025-divisor-game) |
 <!---LeetCode Topics End-->
