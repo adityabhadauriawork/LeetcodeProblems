@@ -168,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/0977-squares-of-a-sorted-array) |
 | [0994-rotting-oranges](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/1004-max-consecutive-ones-iii) |
+| [1018-binary-prefix-divisible-by-5](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1046-last-stone-weight](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/1046-last-stone-weight) |
 | [1094-car-pooling](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/1094-car-pooling) |
 | [1140-stone-game-ii](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/1140-stone-game-ii) |
@@ -355,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/0137-single-number-ii) |
 | [0231-power-of-two](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/0231-power-of-two) |
 | [0338-counting-bits](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/0338-counting-bits) |
+| [1018-binary-prefix-divisible-by-5](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1318-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/1318-minimum-flips-to-make-a-or-b-equal-to-c) |
 | [1386-cinema-seat-allocation](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/1386-cinema-seat-allocation) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
