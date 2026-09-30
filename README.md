@@ -164,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0896-monotonic-array](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/0896-monotonic-array) |
 | [0908-smallest-range-i](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/0908-smallest-range-i) |
 | [0918-maximum-sum-circular-subarray](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/0918-maximum-sum-circular-subarray) |
+| [0922-sort-array-by-parity-ii](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/0922-sort-array-by-parity-ii) |
 | [0929-unique-email-addresses](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/0929-unique-email-addresses) |
 | [0946-validate-stack-sequences](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/0946-validate-stack-sequences) |
 | [0977-squares-of-a-sorted-array](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/0977-squares-of-a-sorted-array) |
@@ -455,6 +456,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/0876-middle-of-the-linked-list) |
 | [0917-reverse-only-letters](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/0917-reverse-only-letters) |
+| [0922-sort-array-by-parity-ii](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/0977-squares-of-a-sorted-array) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
@@ -550,6 +552,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0888-fair-candy-swap](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/0888-fair-candy-swap) |
+| [0922-sort-array-by-parity-ii](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/0977-squares-of-a-sorted-array) |
 | [1094-car-pooling](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/1094-car-pooling) |
 | [1268-search-suggestions-system](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/1268-search-suggestions-system) |
