@@ -169,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/0977-squares-of-a-sorted-array) |
 | [0994-rotting-oranges](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/1004-max-consecutive-ones-iii) |
+| [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1046-last-stone-weight](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/1046-last-stone-weight) |
 | [1094-car-pooling](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/1094-car-pooling) |
@@ -694,6 +695,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0649-dota2-senate](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/0649-dota2-senate) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [1386-cinema-seat-allocation](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/1386-cinema-seat-allocation) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1713-minimum-operations-to-make-a-subsequence](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/1713-minimum-operations-to-make-a-subsequence) |
