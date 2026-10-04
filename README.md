@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/0503-next-greater-element-ii) |
+| [0678-valid-parenthesis-string](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/0678-valid-parenthesis-string) |
 | [0735-asteroid-collision](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/0739-daily-temperatures) |
 | [0844-backspace-string-compare](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/0844-backspace-string-compare) |
@@ -332,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/0435-non-overlapping-intervals) |
 | [0486-predict-the-winner](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/0509-fibonacci-number) |
+| [0678-valid-parenthesis-string](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/0678-valid-parenthesis-string) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0746-min-cost-climbing-stairs](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/0746-min-cost-climbing-stairs) |
 | [0790-domino-and-tromino-tiling](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/0790-domino-and-tromino-tiling) |
@@ -540,6 +542,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/0443-string-compression) |
 | [0459-repeated-substring-pattern](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/0459-repeated-substring-pattern) |
 | [0649-dota2-senate](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/0649-dota2-senate) |
+| [0678-valid-parenthesis-string](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/0678-valid-parenthesis-string) |
 | [0824-goat-latin](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/0824-goat-latin) |
 | [0844-backspace-string-compare](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/0844-backspace-string-compare) |
 | [0859-buddy-strings](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/0859-buddy-strings) |
@@ -728,6 +731,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0649-dota2-senate](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/0649-dota2-senate) |
+| [0678-valid-parenthesis-string](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/0678-valid-parenthesis-string) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0860-lemonade-change](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/0860-lemonade-change) |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
@@ -907,6 +911,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/0678-valid-parenthesis-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 ## String Matching
 |  |
