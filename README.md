@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2390-removing-stars-from-a-string](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/2390-removing-stars-from-a-string) |
@@ -562,6 +563,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1268-search-suggestions-system](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/1268-search-suggestions-system) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1657-determine-if-two-strings-are-close](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/1657-determine-if-two-strings-are-close) |
 | [1768-merge-strings-alternately](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/1768-merge-strings-alternately) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
@@ -746,6 +748,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [1386-cinema-seat-allocation](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/1386-cinema-seat-allocation) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1713-minimum-operations-to-make-a-subsequence](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/1713-minimum-operations-to-make-a-subsequence) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1927-sum-game](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/1927-sum-game) |
@@ -926,6 +929,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/1021-remove-outermost-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 ## String Matching
 |  |
 | ------- |
