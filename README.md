@@ -165,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/0739-daily-temperatures) |
 | [0746-min-cost-climbing-stairs](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/0746-min-cost-climbing-stairs) |
 | [0812-largest-triangle-area](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/0812-largest-triangle-area) |
+| [0832-flipping-an-image](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/0832-flipping-an-image) |
 | [0835-image-overlap](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/0835-image-overlap) |
 | [0860-lemonade-change](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/0860-lemonade-change) |
 | [0875-koko-eating-bananas](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/0875-koko-eating-bananas) |
@@ -410,6 +411,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/0338-counting-bits) |
 | [0476-number-complement](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/0476-number-complement) |
 | [0693-binary-number-with-alternating-bits](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/0693-binary-number-with-alternating-bits) |
+| [0832-flipping-an-image](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/0832-flipping-an-image) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1318-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/1318-minimum-flips-to-make-a-or-b-equal-to-c) |
 | [1386-cinema-seat-allocation](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/1386-cinema-seat-allocation) |
@@ -508,6 +510,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/0443-string-compression) |
+| [0832-flipping-an-image](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/0832-flipping-an-image) |
 | [0844-backspace-string-compare](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/0876-middle-of-the-linked-list) |
 | [0917-reverse-only-letters](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/0917-reverse-only-letters) |
@@ -677,6 +680,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/0415-add-strings) |
 | [0657-robot-return-to-origin](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/0657-robot-return-to-origin) |
 | [0735-asteroid-collision](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/0735-asteroid-collision) |
+| [0832-flipping-an-image](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/0832-flipping-an-image) |
 | [0844-backspace-string-compare](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/0844-backspace-string-compare) |
 | [0946-validate-stack-sequences](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/0946-validate-stack-sequences) |
 | [1094-car-pooling](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/1094-car-pooling) |
@@ -809,6 +813,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/0059-spiral-matrix-ii) |
 | [0200-number-of-islands](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/0200-number-of-islands) |
+| [0832-flipping-an-image](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/0832-flipping-an-image) |
 | [0835-image-overlap](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/0835-image-overlap) |
 | [0883-projection-area-of-3d-shapes](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/0883-projection-area-of-3d-shapes) |
 | [0892-surface-area-of-3d-shapes](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/0892-surface-area-of-3d-shapes) |
