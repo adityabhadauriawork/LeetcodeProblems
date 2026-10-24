@@ -327,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1927-sum-game](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/2029-stone-game-ix) |
 | [2366-minimum-replacements-to-sort-the-array](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/2366-minimum-replacements-to-sort-the-array) |
+| [2409-count-days-spent-together](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/2409-count-days-spent-together) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -606,6 +607,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1927-sum-game](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2390-removing-stars-from-a-string](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/2390-removing-stars-from-a-string) |
+| [2409-count-days-spent-together](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/2409-count-days-spent-together) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
