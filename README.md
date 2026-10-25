@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0743-network-delay-time](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/0743-network-delay-time) |
 | [0872-leaf-similar-trees](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/0872-leaf-similar-trees) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1254-number-of-closed-islands](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/1254-number-of-closed-islands) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1200-minimum-absolute-difference](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/1200-minimum-absolute-difference) |
 | [1207-unique-number-of-occurrences](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/1207-unique-number-of-occurrences) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/1232-check-if-it-is-a-straight-line) |
+| [1254-number-of-closed-islands](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/1260-shift-2d-grid) |
 | [1268-search-suggestions-system](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/1268-search-suggestions-system) |
 | [1386-cinema-seat-allocation](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/1386-cinema-seat-allocation) |
@@ -713,6 +715,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0743-network-delay-time](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/0743-network-delay-time) |
 | [0994-rotting-oranges](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/0994-rotting-oranges) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1254-number-of-closed-islands](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/1254-number-of-closed-islands) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/1926-nearest-exit-from-entrance-in-maze) |
@@ -749,6 +752,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/0200-number-of-islands) |
 | [0399-evaluate-division](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/0547-number-of-provinces) |
+| [1254-number-of-closed-islands](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/1254-number-of-closed-islands) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Graph Theory
 |  |
@@ -822,6 +826,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0883-projection-area-of-3d-shapes](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/0883-projection-area-of-3d-shapes) |
 | [0892-surface-area-of-3d-shapes](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/0892-surface-area-of-3d-shapes) |
 | [0994-rotting-oranges](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/0994-rotting-oranges) |
+| [1254-number-of-closed-islands](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/1260-shift-2d-grid) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [2352-equal-row-and-column-pairs](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/2352-equal-row-and-column-pairs) |
