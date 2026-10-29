@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [1932-merge-bsts-to-create-single-bst](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/1932-merge-bsts-to-create-single-bst) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Depth-First Search
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
+| [1932-merge-bsts-to-create-single-bst](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/1932-merge-bsts-to-create-single-bst) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3310-remove-methods-from-project](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/3310-remove-methods-from-project) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [1932-merge-bsts-to-create-single-bst](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/1932-merge-bsts-to-create-single-bst) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Array
 |  |
@@ -229,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1838-frequency-of-the-most-frequent-element](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1872-stone-game-viii](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/1872-stone-game-viii) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/1926-nearest-exit-from-entrance-in-maze) |
+| [1932-merge-bsts-to-create-single-bst](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/1932-merge-bsts-to-create-single-bst) |
 | [1964-find-the-longest-valid-obstacle-course-at-each-position](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/1964-find-the-longest-valid-obstacle-course-at-each-position) |
 | [2029-stone-game-ix](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/2029-stone-game-ix) |
 | [2054-two-best-non-overlapping-events](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/2054-two-best-non-overlapping-events) |
@@ -468,6 +472,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1713-minimum-operations-to-make-a-subsequence](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/1713-minimum-operations-to-make-a-subsequence) |
+| [1932-merge-bsts-to-create-single-bst](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/1932-merge-bsts-to-create-single-bst) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2336-smallest-number-in-infinite-set](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/2336-smallest-number-in-infinite-set) |
 | [2352-equal-row-and-column-pairs](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/2352-equal-row-and-column-pairs) |
@@ -748,6 +753,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0700-search-in-a-binary-search-tree](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/0701-insert-into-a-binary-search-tree) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [1932-merge-bsts-to-create-single-bst](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/1932-merge-bsts-to-create-single-bst) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
