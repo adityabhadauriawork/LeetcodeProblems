@@ -17,5 +17,8 @@ class Solution:
                 return -1
 
             return 1 + max(left_height, right_height)
+            return 
 
         return helper(root) != -1
+
+        
