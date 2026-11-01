@@ -166,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0399-evaluate-division](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/0399-evaluate-division) |
 | [0435-non-overlapping-intervals](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0486-predict-the-winner](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/0486-predict-the-winner) |
 | [0496-next-greater-element-i](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/0503-next-greater-element-ii) |
@@ -320,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0292-nim-game](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/0326-power-of-three) |
 | [0415-add-strings](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/0415-add-strings) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0486-predict-the-winner](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/0509-fibonacci-number) |
 | [0812-largest-triangle-area](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/0812-largest-triangle-area) |
