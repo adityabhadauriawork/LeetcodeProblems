@@ -214,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1254-number-of-closed-islands](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/1260-shift-2d-grid) |
 | [1268-search-suggestions-system](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/1268-search-suggestions-system) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1386-cinema-seat-allocation](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/1406-stone-game-iii) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
@@ -296,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0888-fair-candy-swap](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/0888-fair-candy-swap) |
 | [1004-max-consecutive-ones-iii](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/1004-max-consecutive-ones-iii) |
 | [1268-search-suggestions-system](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/1268-search-suggestions-system) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
@@ -553,6 +555,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0917-reverse-only-letters](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/0917-reverse-only-letters) |
 | [0922-sort-array-by-parity-ii](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/0977-squares-of-a-sorted-array) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
@@ -673,6 +676,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1094-car-pooling](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/1094-car-pooling) |
 | [1200-minimum-absolute-difference](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/1200-minimum-absolute-difference) |
 | [1268-search-suggestions-system](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/1268-search-suggestions-system) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [1657-determine-if-two-strings-are-close](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/1657-determine-if-two-strings-are-close) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/1679-max-number-of-k-sum-pairs) |
