@@ -260,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3086-minimum-moves-to-pick-k-ones](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/3086-minimum-moves-to-pick-k-ones) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -842,6 +843,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3086-minimum-moves-to-pick-k-ones](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/3086-minimum-moves-to-pick-k-ones) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Greedy
@@ -870,6 +872,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2366-minimum-replacements-to-sort-the-array](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/2366-minimum-replacements-to-sort-the-array) |
 | [2542-maximum-subsequence-score](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/2542-maximum-subsequence-score) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [3086-minimum-moves-to-pick-k-ones](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/3086-minimum-moves-to-pick-k-ones) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
@@ -918,6 +921,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1732-find-the-highest-altitude](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/1732-find-the-highest-altitude) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1872-stone-game-viii](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/1872-stone-game-viii) |
+| [3086-minimum-moves-to-pick-k-ones](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/3086-minimum-moves-to-pick-k-ones) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3903-smallest-stable-index-i](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/3904-smallest-stable-index-ii) |
