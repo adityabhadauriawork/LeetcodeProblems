@@ -263,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3086-minimum-moves-to-pick-k-ones](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/3086-minimum-moves-to-pick-k-ones) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3187-peaks-in-array](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/3187-peaks-in-array) |
+| [3225-maximum-score-from-grid-operations](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/3225-maximum-score-from-grid-operations) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/3483-unique-3-digit-even-numbers) |
@@ -417,6 +418,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2054-two-best-non-overlapping-events](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/2054-two-best-non-overlapping-events) |
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
+| [3225-maximum-score-from-grid-operations](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/3225-maximum-score-from-grid-operations) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
@@ -894,6 +896,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1267-count-servers-that-communicate](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/1267-count-servers-that-communicate) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [2352-equal-row-and-column-pairs](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/2352-equal-row-and-column-pairs) |
+| [3225-maximum-score-from-grid-operations](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/3225-maximum-score-from-grid-operations) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3665-twisted-mirror-path-count](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/3665-twisted-mirror-path-count) |
@@ -923,6 +926,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1838-frequency-of-the-most-frequent-element](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1872-stone-game-viii](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/1872-stone-game-viii) |
 | [3086-minimum-moves-to-pick-k-ones](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/3086-minimum-moves-to-pick-k-ones) |
+| [3225-maximum-score-from-grid-operations](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/3225-maximum-score-from-grid-operations) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3903-smallest-stable-index-i](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/3904-smallest-stable-index-ii) |
