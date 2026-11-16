@@ -662,6 +662,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1927-sum-game](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2390-removing-stars-from-a-string](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/2390-removing-stars-from-a-string) |
 | [2409-count-days-spent-together](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/2409-count-days-spent-together) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
@@ -752,6 +753,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1260-shift-2d-grid](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/1260-shift-2d-grid) |
 | [1518-water-bottles](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/1518-water-bottles) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2352-equal-row-and-column-pairs](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/2352-equal-row-and-column-pairs) |
 | [2390-removing-stars-from-a-string](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/2390-removing-stars-from-a-string) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/2462-total-cost-to-hire-k-workers) |
