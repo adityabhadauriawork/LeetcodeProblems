@@ -257,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2366-minimum-replacements-to-sort-the-array](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/2366-minimum-replacements-to-sort-the-array) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/2462-total-cost-to-hire-k-workers) |
 | [2542-maximum-subsequence-score](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/2542-maximum-subsequence-score) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -709,6 +710,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2542-maximum-subsequence-score](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/2542-maximum-subsequence-score) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -893,6 +895,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2333-minimum-sum-of-squared-difference](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2366-minimum-replacements-to-sort-the-array](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/2366-minimum-replacements-to-sort-the-array) |
 | [2542-maximum-subsequence-score](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/2542-maximum-subsequence-score) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3086-minimum-moves-to-pick-k-ones](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/3086-minimum-moves-to-pick-k-ones) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
