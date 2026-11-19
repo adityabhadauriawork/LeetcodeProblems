@@ -6,3 +6,4 @@ class Solution:
             nums[-3] - nums[0],
             nums[-2] - nums[1]
         )
+
