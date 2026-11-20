@@ -279,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3471-find-the-largest-almost-missing-integer](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/3483-unique-3-digit-even-numbers) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3524-find-x-value-of-array-i](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/3524-find-x-value-of-array-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/3525-find-x-value-of-array-ii) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
@@ -524,6 +525,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3471-find-the-largest-almost-missing-integer](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/3483-unique-3-digit-even-numbers) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -548,6 +550,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -769,6 +772,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2462-total-cost-to-hire-k-workers](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/2462-total-cost-to-hire-k-workers) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/3498-reverse-degree-of-a-string) |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -823,6 +827,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2462-total-cost-to-hire-k-workers](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/2462-total-cost-to-hire-k-workers) |
 | [2542-maximum-subsequence-score](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/2542-maximum-subsequence-score) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Quickselect
 |  |
@@ -995,6 +1000,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2336-smallest-number-in-infinite-set](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/2336-smallest-number-in-infinite-set) |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 ## Interactive
 |  |
 | ------- |
@@ -1054,6 +1060,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/0146-lru-cache) |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 ## Minimax
 |  |
 | ------- |
