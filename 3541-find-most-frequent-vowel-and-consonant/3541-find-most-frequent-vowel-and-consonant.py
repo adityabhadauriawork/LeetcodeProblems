@@ -1,45 +1,45 @@
 class Solution:
     def maxFreqSum(self, s: str) -> int:
-        # freq = {}
-        # count_vowel = 0
-        # count_cons = 0
-        # vowel = set("aeiou")
-        # for a in s:
-        #     if a in freq:
-        #         freq[a] += 1
-        #     else:
-        #         freq[a] = 1
-        # for letter, count in freq.items():
-        #     if letter in vowel:
-        #         if count > count_vowel:
-        #             count_vowel = count
-        #     elif letter not in vowel:
-        #         if count > count_cons:
-        #             count_cons = count
-        # return count_cons + count_vowel
-
-
-        
         freq = {}
         count_vowel = 0
         count_cons = 0
-        vowel = {'a', 'e', 'i', 'o', 'u'}
-
+        vowel = set("aeiou")
         for a in s:
             if a in freq:
                 freq[a] += 1
             else:
                 freq[a] = 1
-
-            # Check max right away in the same loop
-            if a in vowel:
-                if freq[a] > count_vowel:
-                    count_vowel = freq[a]
-            else:
-                if freq[a] > count_cons:
-                    count_cons = freq[a]
-
+        for letter, count in freq.items():
+            if letter in vowel:
+                if count > count_vowel:
+                    count_vowel = count
+            elif letter not in vowel:
+                if count > count_cons:
+                    count_cons = count
         return count_cons + count_vowel
+
+
+        
+        # freq = {}
+        # count_vowel = 0
+        # count_cons = 0
+        # vowel = {'a', 'e', 'i', 'o', 'u'}
+
+        # for a in s:
+        #     if a in freq:
+        #         freq[a] += 1
+        #     else:
+        #         freq[a] = 1
+
+        #     # Check max right away in the same loop
+        #     if a in vowel:
+        #         if freq[a] > count_vowel:
+        #             count_vowel = freq[a]
+        #     else:
+        #         if freq[a] > count_cons:
+        #             count_cons = freq[a]
+
+        # return count_cons + count_vowel
 
 
 
