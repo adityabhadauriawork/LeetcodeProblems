@@ -3,7 +3,7 @@ class Solution:
         freq = {}
         count_vowel = 0
         count_cons = 0
-        vowel = "aeiou"
+        vowel = set("aeiou")
         for a in s:
             if a in freq:
                 freq[a] += 1
