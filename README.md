@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1932-merge-bsts-to-create-single-bst](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/1932-merge-bsts-to-create-single-bst) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3425-longest-special-path](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/3425-longest-special-path) |
+| [3515-shortest-path-in-a-weighted-tree](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/3515-shortest-path-in-a-weighted-tree) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Depth-First Search
 |  |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3310-remove-methods-from-project](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/3310-remove-methods-from-project) |
 | [3425-longest-special-path](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/3425-longest-special-path) |
+| [3515-shortest-path-in-a-weighted-tree](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/3515-shortest-path-in-a-weighted-tree) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Binary Tree
@@ -280,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3483-unique-3-digit-even-numbers](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/3483-unique-3-digit-even-numbers) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
+| [3515-shortest-path-in-a-weighted-tree](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/3515-shortest-path-in-a-weighted-tree) |
 | [3524-find-x-value-of-array-i](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/3524-find-x-value-of-array-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/3525-find-x-value-of-array-ii) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
@@ -972,6 +975,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3187-peaks-in-array](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/3187-peaks-in-array) |
+| [3515-shortest-path-in-a-weighted-tree](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/3515-shortest-path-in-a-weighted-tree) |
 | [3525-find-x-value-of-array-ii](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/3525-find-x-value-of-array-ii) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/3841-palindromic-path-queries-in-a-tree) |
@@ -1028,6 +1032,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3187-peaks-in-array](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/3187-peaks-in-array) |
+| [3515-shortest-path-in-a-weighted-tree](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/3515-shortest-path-in-a-weighted-tree) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Game Theory
 |  |
