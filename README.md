@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1932-merge-bsts-to-create-single-bst](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/1932-merge-bsts-to-create-single-bst) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+| [3425-longest-special-path](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/3425-longest-special-path) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Depth-First Search
 |  |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1932-merge-bsts-to-create-single-bst](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/1932-merge-bsts-to-create-single-bst) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3310-remove-methods-from-project](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/3310-remove-methods-from-project) |
+| [3425-longest-special-path](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/3425-longest-special-path) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Binary Tree
@@ -273,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3225-maximum-score-from-grid-operations](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/3225-maximum-score-from-grid-operations) |
 | [3364-minimum-positive-sum-subarray](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/3364-minimum-positive-sum-subarray) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
+| [3425-longest-special-path](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/3425-longest-special-path) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/3483-unique-3-digit-even-numbers) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
@@ -517,6 +520,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3425-longest-special-path](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/3425-longest-special-path) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/3483-unique-3-digit-even-numbers) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
@@ -952,6 +956,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3086-minimum-moves-to-pick-k-ones](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/3086-minimum-moves-to-pick-k-ones) |
 | [3225-maximum-score-from-grid-operations](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/3225-maximum-score-from-grid-operations) |
 | [3364-minimum-positive-sum-subarray](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/3364-minimum-positive-sum-subarray) |
+| [3425-longest-special-path](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/3425-longest-special-path) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3903-smallest-stable-index-i](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/adityabhadauriawork/LeetcodeProblems/tree/master/3904-smallest-stable-index-ii) |
